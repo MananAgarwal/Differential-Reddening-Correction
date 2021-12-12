@@ -1,4 +1,4 @@
-# Differential-Reddening-Correction
+# Differential Reddening Correction
 
 Dust and other matter in the intersellar medium along the line of sight scatters and absorbs the light coming from distant objects.
 This results in these objects appearing dimmer and redder than they actually are, these effects are known as **extinction** and **interstellar reddening** respectively.
